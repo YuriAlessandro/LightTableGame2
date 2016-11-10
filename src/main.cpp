@@ -15,7 +15,6 @@
 
 #define PATH_ADC "/sys/bus/iio/devices/iio:device0/in_voltage"
 
-
 pid_t processGame;
 
 // #include "functions.h"
